@@ -1,0 +1,2 @@
+# pokemon2
+object-oriented_programming_exerciseリポジトリのサブモジュール
